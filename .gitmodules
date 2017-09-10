@@ -1,0 +1,9 @@
+[submodule "APISimulator"]
+	path = APISimulator
+	url = https://github.com/Plarium-Repo/APISimulator.git
+[submodule "WebServerNodeAPI"]
+	path = WebServerNodeAPI
+	url = https://github.com/Plarium-Repo/WebServerNodeAPI.git
+[submodule "StudioNodeAPI"]
+	path = StudioNodeAPI
+	url = https://github.com/Plarium-Repo/StudioNodeAPI.git
